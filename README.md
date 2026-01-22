@@ -1,5 +1,5 @@
 # FOOD-O-FAST  
-**Online Food Ordering Website (PHP + MySQL)**
+**_Food-Order-Fast - Skip the line, not the meal_**
 
 FOOD-O-FAST is a web-based online food ordering system built to reduce waiting time and manual effort in crowded environments (e.g., college canteens/bakeries). Customers can browse menu items, place orders, and check order status, while admins can manage items and approve/prepare/disapprove orders.
 
@@ -44,7 +44,7 @@ In traditional ordering, customers must stand in queues, check menu boards manua
 
  
 
-## Modules / Pages Implemented
+## Project Modules
 
 ### Admin Module
 1. Admin Register
