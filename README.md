@@ -27,7 +27,7 @@ In traditional ordering, customers must stand in queues, check menu boards manua
 - Admin registration & login
 - View incoming orders
 - Update order outcome:
-  - **Approved** (Accept the order)
+  - **Approved** (In Progress)
   - **Prepared** (Ready to pick)
   - **Disapprove** (Cancelled) 
 - Maintain and update availability of food items 
