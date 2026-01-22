@@ -8,7 +8,7 @@ FOOD-O-FAST is a web-based online food ordering system built to reduce waiting t
 ## Why this project?
 In traditional ordering, customers must stand in queues, check menu boards manually, and wait for order/payment processing. This becomes slow, error-prone, and difficult in crowded situations. FOOD-O-FAST replaces that workflow with a simple online interface so users can order quickly and pick up when ready.
 
----
+
 
 ## Core Features
 
@@ -31,7 +31,7 @@ In traditional ordering, customers must stand in queues, check menu boards manua
   - **Disapprove** (Cancelled) 
 - Maintain and update availability of food items 
 
----
+ 
 
 ## Tech Stack
 - **Frontend:** HTML, CSS  
@@ -42,7 +42,7 @@ In traditional ordering, customers must stand in queues, check menu boards manua
 
 **Suggested hardware:** i5 / 4GB RAM / 256GB storage
 
----
+ 
 
 ## Modules / Pages Implemented
 
@@ -61,7 +61,7 @@ In traditional ordering, customers must stand in queues, check menu boards manua
 7. Order Status
 8. Contact Us
 
----
+ 
 
 ## Database Design (MySQL)
 
@@ -73,7 +73,7 @@ Tables/Relations:
 3. **items** — stores available items (includes item info and price)
 4. **status** — stores order & tracking details (track/status, user details, items, quantity, cost, date/time) 
 
----
+ 
 
 ## Setup & Run Locally (XAMPP)
 
@@ -114,7 +114,7 @@ Open in browser:
 
 - `http://localhost/Food-O-Fast/`
 
----
+ 
 
 ## Functional Rules (Implemented)
 - System must provide **admin & user registration/login**
@@ -123,7 +123,7 @@ Open in browser:
 - Menu browsing + quick status updates
 - Admin can update order approval and status
 
----
+ 
 
 ## Testing (As documented)
 Testing approach includes:
@@ -134,12 +134,12 @@ Example test cases:
 - Registration/login using non-domain email → warning popup
 - Domain email → successful login/register (for both admin and user)
 
----
+ 
 
 ## Project Outcome
 This system helps customers avoid queues, reduces admin overload during rush hours, improves ordering speed, and helps manage orders with clear tracking statuses.
 
----
+ 
 
 ## UML / Design Artifacts
 The project documentation includes:
@@ -149,7 +149,7 @@ The project documentation includes:
 - Activity Diagram
 - State Chart Diagram
 
----
+ 
 
 ## Team
 - Komatlapalli Venkata Naga Sri (19B01A0576)  
@@ -158,7 +158,7 @@ The project documentation includes:
 - Munaganuri Chandrika (19B01A05B5)  
 - Namburi Greeshma Sarika (19B01A05C5) 
 
----
+ 
 
 ### Reference Document
 Project report (Food-O-Fast Documentation)
