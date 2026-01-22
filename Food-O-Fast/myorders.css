@@ -1,0 +1,48 @@
+*{
+	margin:0;
+	padding:0;
+}
+#menu ul
+{
+	list-style:none;
+}
+#menu ul li
+{
+	background-color:#00008B;
+	border:5px double white;
+	border-color:cement;
+	border-radius:30px;
+	width:222px;
+	height:40px;
+	text-align:center;
+	line-height:40px;
+	float:left;
+	position:relative;
+}
+#menu ul li a{
+	text-decoration:none;
+	color:white;
+	display:block;
+	font-style:algeria;
+	font-size:20px;
+}
+#menu ul li a:hover
+{
+	background-color:#ff3333;
+	border-radius:30px;
+}
+#menu ul ul{
+	position:absolute;
+	display:none;
+}
+#menu ul li:hover{
+     background-color:#ff3333;
+	 border-radius:30px;
+}
+#menu ul ul{
+	position: absolute;
+	display:none;
+}
+#menu ul li:hover>ul{
+	display:block;
+}

@@ -1,0 +1,42 @@
+#outerbox{
+	width:100%;
+	overflow:hidden;
+	height:800px;
+}
+#sliderbox{
+ width:600%;
+ animation:slide 15s infinite;
+ position:relative;
+}
+#sliderbox{
+	float:left;
+}
+@keyframes slide{
+	0%{
+	   left:0px;
+	  }
+	20%{
+		left:0px;
+		}
+	25%{
+		left:-100%;
+	}
+	45%{
+		left:-100%;
+	}
+	50%{
+		left:-200%;
+	}
+	70%{
+		left:-200%;
+	}
+	75%{
+		left:-300%;
+	}
+	95%{
+		left:-300%;
+	}
+	100%{
+		left:-400%;
+	}
+}

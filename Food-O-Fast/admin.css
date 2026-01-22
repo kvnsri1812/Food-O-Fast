@@ -1,0 +1,102 @@
+table{
+  table-layout:fixed;
+}
+.center {
+	margin-left: auto;
+	margin-right: auto;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 10px;
+  text-align: left;
+}
+#orders tr:nth-child(even) {
+  background-color: #eee;
+}
+#orders tr:nth-child(odd) {
+ background-color: #fff;
+}
+#orders th {
+  background-color: #2f4f4f;
+  color: white;
+}
+.btn1
+{
+	border: 0px solid orange;
+	height: 45px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.btn1 input
+{
+	height: 35px;
+	width: 200px;
+	color: white;
+	border-radius: 10px;
+	border: 0px;
+	background-color: Green;
+	font-size: 18px;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.35);
+}
+.btn2
+{
+	border: 0px solid orange;
+	height: 45px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.btn2 input
+{
+	height: 35px;
+	width: 200px;
+	color: white;
+	border-radius: 10px;
+	border: 0px;
+	background-color: Red;
+	font-size: 18px;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.35);
+}
+.btn3
+{
+	border: 0px solid orange;
+	height: 45px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.btn3 input
+{
+	height: 35px;
+	width: 200px;
+	color: white;
+	border-radius: 10px;
+	border: 0px;
+	background-color: blue;
+	font-size: 18px;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.35);
+}
+.btn4
+{
+	border: 0px solid orange;
+	height: 45px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.btn4 input
+{
+	height: 35px;
+	width: 100px;
+	color: white;
+	border-radius: 10px;
+	border: 0px;
+	background-color: black;
+	font-size: 18px;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.35);
+}
+
