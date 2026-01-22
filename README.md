@@ -14,7 +14,7 @@ In traditional ordering, customers must stand in queues, check menu boards manua
 
 ### User (Customer)
 - User registration & login
-- **Domain email validation** during registration/login (non-domain emails show warning) :contentReference[oaicite:2]{index=2}
+- **Domain email validation** during registration/login (non-domain emails show warning)
 - Browse menu with categories/submenus:
   - Veg, Non-Veg, Starters, Pizza, etc.
 - Select quantity and add items to **My Orders**
@@ -27,6 +27,7 @@ In traditional ordering, customers must stand in queues, check menu boards manua
 - Admin registration & login
 - View incoming orders
 - Update order outcome:
+  - **Approved** (Accept the order)
   - **Prepared** (Ready to pick)
   - **Disapprove** (Cancelled) 
 - Maintain and update availability of food items 
@@ -49,7 +50,7 @@ In traditional ordering, customers must stand in queues, check menu boards manua
 ### Admin Module
 1. Admin Register
 2. Admin Login
-3. Order Approval (Prepared / Disapprove) 
+3. Order Approval (Approve, Prepared / Disapprove) 
 
 ### User Module
 1. User Register
