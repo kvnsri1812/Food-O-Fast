@@ -1,12 +1,12 @@
 # FOOD-O-FAST  
 > **_Food-Order-Fast - Skip the line, not the meal_**
 
-FOOD-O-FAST is a web-based online food ordering system built to reduce waiting time and manual effort in crowded environments (e.g., college canteens/bakeries). Customers can browse menu items, place orders, and check order status, while admins can manage items and approve/prepare/disapprove orders.
+FOOD-O-FAST is a web-based online food ordering system built to reduce waiting time and manual effort in crowded environments (e.g., college canteens/bakeries). Customers can browse menu items, place orders, and check order status, while admins can manage items and **approve/prepare/disapprove** orders.
 
-**Project Timeline**: Developed and completed between **March 5, 2022** and **April 30, 2022**.
+**Project Timeline**: Developed and completed between **March 5, 2022** and **April 30, 2022** as my 3rd year B.Tech mini project..
 
 ## Why this project?
-In traditional ordering, customers must stand in queues, check menu boards manually, and wait for order/payment processing. This becomes slow, error-prone, and difficult in crowded situations. FOOD-O-FAST replaces that workflow with a simple online interface so users can order quickly and pick up when ready.
+In traditional ordering, customers must **stand in queues**, check menu boards manually, and wait for order/payment processing. This becomes slow, error-prone, and difficult in crowded situations. **FOOD-O-FAST** replaces that workflow with a simple online interface so users can order quickly and **pick up when ready**.
 
 
 
@@ -66,7 +66,7 @@ In traditional ordering, customers must stand in queues, check menu boards manua
 
 ## Database Design (MySQL)
 
-Database name used in the report: **`Project`** 
+Database name : **Project** 
 
 Tables/Relations:
 1. **admin** — stores admin details (username, email, password, phone)
